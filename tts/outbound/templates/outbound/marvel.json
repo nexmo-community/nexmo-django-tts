@@ -1,0 +1,7 @@
+[
+    {
+        "action": "talk",
+        "text": "{{ marvel_message|safe }}",
+        "voiceName": "{{ voice_name }}"
+    }
+]
